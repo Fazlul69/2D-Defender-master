@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &3195521880304687405
+--- !u!1 &820803690735738435
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,36 +8,36 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 3195521880304687406}
-  - component: {fileID: 3195521880304687407}
+  - component: {fileID: 820803690735738432}
+  - component: {fileID: 820803690735738433}
   m_Layer: 9
-  m_Name: CheckPoint5
+  m_Name: CheckPoint9
   m_TagString: CheckPoint
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &3195521880304687406
+--- !u!4 &820803690735738432
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3195521880304687405}
+  m_GameObject: {fileID: 820803690735738435}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.4738227, y: 1.662919, z: 0.077685624}
+  m_LocalPosition: {x: 5.35, y: -1.28, z: 0.077685624}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &3195521880304687407
+--- !u!61 &820803690735738433
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3195521880304687405}
+  m_GameObject: {fileID: 820803690735738435}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
